@@ -1,0 +1,12 @@
+{
+  "name": "kamparser",
+  "version": "0.0.1",
+  "description": "parser delivered through REST API",
+  "main": "main.js",
+  "scripts": {
+    "start": "node main.js"
+  },
+  "dependencies": {
+    "restify": "2.4.x"
+  }
+}
